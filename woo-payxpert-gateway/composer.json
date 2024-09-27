@@ -1,0 +1,5 @@
+{
+    "require": {
+        "payxpert/connect2pay": "^2.71"
+    }
+}
